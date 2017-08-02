@@ -41,4 +41,14 @@
     <string name="temperature">Temperature</string>
     <string name="time">Time</string>
     <string name="volume">Volume</string>
+
+    <!--Area-->
+    <string name="square_kilometre">Square kilometre</string>
+    <string name="square_metre">Square metre</string>
+    <string name="square_mile">Square mile</string>
+    <string name="square_yard">Square yard</string>
+    <string name="square_foot">Square foot</string>
+    <string name="square_inch">Square inch</string>
+    <string name="hectare">Hectare</string>
+    <string name="acre">Acre</string>
 </resources>
